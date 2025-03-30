@@ -1,0 +1,6 @@
+mcp>=1.4.1
+pyshark>=0.6.0
+pydantic>=2.7.2
+fastapi>=0.95.0
+uvicorn>=0.21.0 
+flask>=2.0.0
